@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Cuestionario: Los Efectos del Uso de la TI</title>
+</head>
+<body>
+
+    <h1>Cuestionario: Los Efectos del Uso de la TI</h1><br>
+    <h3>Responde el siguiente cuestionario usando como referencial el libro de ICT paginas 99 a 105</h3>
+    <p>Nombre del estudiante:Danna Antonella Zamora Veloza</p>
+    <hr>
+
+    <h2>Preguntas de examen</h2>
+
+    <h3>Pregunta 1</h3>
+    <p>El uso de dispositivos controlados por microprocesador en el hogar afecta el tiempo libre de una persona, la interacción social y la necesidad de salir de casa.</p>
+    
+    <h4>a. Menciona tres ventajas para el individuo cuando se usan dispositivos controlados por microprocesador en el hogar.</h4>
+    <p><em>(Ventajas)</em></p>
+    <ul>
+        <li><b>Las personas ya no tienen que hacer tareas manuales en casa.</b> </li>
+        <li><b>Dan más tiempo libre para actividades de ocio, hobbies, compras y socialización.</b> </li>
+        <li><b>No es necesario quedarse en casa mientras se cocina o se lavan los platos/ropa.</b> </li>
+    </ul>
+
+    <h4>b. Menciona tres desventajas para el individuo cuando se usan dispositivos controlados por microprocesador en el hogar.</h4>
+    <p><em>(Desventajas)</em></p>
+    <ul>
+        <li><b>Los dispositivos que ahorran trabajo pueden llevar a estilos de vida poco saludables por falta de ejercicio.</b> </li>
+        <li><b>Pueden volver a las personas más perezosas porque dependen de ellos.</b> </li>
+        <li><b>Existe la posibilidad de perder habilidades domésticas.</b> </li>
+    </ul>
+
+    <hr>
+
+    <h3>Pregunta 2</h3>
+    <p>Usas un computador para hacer tu tarea. Te preocupan los problemas de salud que puede ocasionar el uso de un computador.</p>
+    <p><b>Discute las ventajas y desventajas de los diferentes métodos que podrías usar para ayudar a minimizar los problemas de salud al usar el computador.</b></p>
+    <p><em>(Existen diferentes métodos para reducir los problemas de salud causados por el uso prolongado del computador. Por ejemplo, usar sillas ergonómicas y mesas ajustables ayuda a mantener una buena postura, evitando dolores de espalda y cuello. Tomar descansos regulares, hacer estiramientos y ajustar la posición de la pantalla disminuye el riesgo de fatiga visual y lesiones por esfuerzo repetitivo (RSI). También es recomendable controlar el brillo de la pantalla y usar filtros para reducir el cansancio ocular.)</em></p>
+    <p><b>Ventajas:Se pueden usar soportes ergonómicos como sillas ajustables, mesas adecuadas y reposamuñecas para reducir problemas de postura. Tomar descansos regulares ayuda a evitar fatiga visual y el síndrome de túnel carpiano. Además, ajustar la iluminación y el brillo de la pantalla previene dolores de cabeza y problemas de vista.</b> </p>
+    <p><b>Desventajas:Algunas soluciones pueden ser costosas (como sillas ergonómicas o pantallas especiales). Requiere disciplina personal para tomar descansos y usar correctamente los equipos.  </b></p>
+
+    <hr>
+
+    <h3>Pregunta 3</h3>
+    <p>Existen posibles problemas de seguridad al usar dispositivos controlados por microprocesador en el hogar.</p>
+
+    <h4>a. Describe estos problemas y explica cómo se pueden mitigar.</h4>
+    <p><em>(Escribe aquí tu descripción)</em></p>
+    <p><b>Respuesta:</b> </p>
+
+    <h4>b. Indica si las siguientes afirmaciones son Verdaderas o Falsas marcando la casilla apropiada con una 'X'.</h4>
+    
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Afirmación</th>
+                <th>Verdadero [X]</th>
+                <th>Falso [X]</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>El uso de microprocesadores ha aumentado la longevidad de los dispositivos en el hogar, reduciendo así los residuos.</td>
+                <td> </td>
+                <td> X </td>
+            </tr>
+            <tr>
+                <td>Los dispositivos controlados por microprocesador son mucho más eficientes energéticamente. </td>
+                <td> X </td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>Los televisores inteligentes son un ejemplo de un dispositivo que ahorra trabajo.</td>
+                <td> </td>
+                <td> X </td>
+            </tr>
+            <tr>
+                <td>Los dispositivos controlados por microprocesador en el hogar no son vulnerables a ataques de virus o hackers.</td>
+                <td> </td>
+                <td> X </td>
+            </tr>
+            <tr>
+                <td>Los dispositivos controlados por microprocesador, como los smartphones, no tienen impacto en las interacciones sociales.</td>
+                <td> </td>
+                <td> X </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+    
+    <h3>Pregunta 4</h3>
+    <p>Se muestran cinco afirmaciones a la izquierda y once términos de TIC a la derecha. <b>Dibuja flechas para conectar cada afirmación con su término correcto.</b> (Nota: Como no se pueden dibujar flechas en HTML, escribe el término correcto al lado de cada afirmación).</p>
+
+    <ul>
+        <li>Nombre dado a los vehículos sin conductor, como carros, camionetas y buses: <b><em>(Autonomous)</em></b></li>
+        <li>Un tipo de señal de tráfico 'inteligente' utilizada para monitorear y controlar el tráfico vial: <b><em>(Smart)</em></b></li>
+        <li>Nombre dado a los hackers y otras personas que intentan irrumpir en los sistemas de TIC: <b><em>(Cybercriminal)</em></b></li>
+        <li>Nombre del tipo de riesgo asociado con el gas ozono que alcanza niveles altos: <b><em>(Health)</em></b></li>
+        <li>Significado de la letra 'R' en RSI (Lesión por Esfuerzo Repetitivo): <b><em>(Repetitive)</em></b></li>
+    </ul>
+
+    <p><em>Términos disponibles: Monitor, Cybercriminal, Autonomous, Regular, Smart, Restorative, Automatic, Repetitive, Clever, Health, Control.</em></p>
+    
+    <hr>
+    
+    <h3>Pregunta 5</h3>
+
+    <h4>a. Describe las ventajas de tener las principales carreteras controladas y monitoreadas por señales de tráfico inteligentes.</h4>
+    <p><em>(Ventajas)</em></p>
+    <p><b>Las señales de tráfico inteligentes pueden monitorear y controlar el tráfico en tiempo real, reduciendo accidentes y embotellamientos. También permiten mover el tráfico de forma más eficiente, haciendo los viajes más rápidos y seguros.</b> </p>
+
+    <h4>b. Describe los riesgos de tener señales de tráfico inteligentes bajo control informático.</h4>
+    <p><em>Respuesta:</em></p>
+    <p><b>Si las señales inteligentes dependen totalmente de un sistema informático, un fallo técnico o un hackeo puede causar accidentes graves, descontrol en el tráfico o incluso poner en riesgo la seguridad pública. Además, los sistemas son costosos de implementar y mantener.</b> </p>
+    
+    <a href="index.html">Inicio</a> 
+</body>
+</html>
