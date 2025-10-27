@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+   <a href="Superheroe.html">Superheroe </a>
+        <a href="Unicornio.html">Unicornio</a>
+        <a href="CiudadFuturistica.html">Ciudad Futuristica</a>
+        <a href="PDF.html"> PDF </a>
+        <a href="Cuestionario2.html"> Cuestionario </a>
+        <a href="EVALUACION.HTML"> Evaluacion </a>
     <meta charset="UTF-8">
     <title>Cuestionario: Los Efectos del Uso de la TI</title>
 </head>
